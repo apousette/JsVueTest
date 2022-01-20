@@ -1,0 +1,23 @@
+{
+  "name": "jsvuetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apousette/JsVueTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apousette/JsVueTest/issues"
+  },
+  "homepage": "https://github.com/apousette/JsVueTest#readme",
+  "dependencies": {
+    "vue": "^3.2.27",
+    "vue-meta": "^2.4.0"
+  }
+}
